@@ -1,0 +1,9 @@
+# Зертханалық жұмыс 8 — Issues, Projects, Actions
+
+Оқу HTML жобасы. Алдыңғы lab6 жұмысынан `favorite-hero.html` беті алынды. Қазіргі жергілікті материалдарда тек бір қатысушының беті бар.
+
+Ашу: `index.html` файлын браузерде ашыңыз. VS Code: осы қалтаны бөлек терезеде ашыңыз.
+
+GitHub: https://github.com/Jamspaq/lab-8
+
+Жұмыс: үш Issue → Kanban → Issue-мен байланысқан тармақ → commit → Pull Request → HTML Check → merge. Workflow тапсырмадағы үлгіге сәйкес хабарлама шығарады; HTML синтаксисін толық валидатор арқылы тексермейді.
